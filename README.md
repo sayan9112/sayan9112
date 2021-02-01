@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan9112" alt="sayan9112" /></a> </p>
 
-- 🌱 I’m currently learning **Web developing, Python**
+- 🌱 I’m currently learning **: Web developing, Python**
 
-- 📫 How to reach me **sm9112000@gmail.com**
+- 📫 How to reach me **: sm9112000@gmail.com**
 
-- ⚡ Fun fact **Nothing funny, time is the most precious in life and I'm working hard.**
+- ⚡ Fun fact **: Nothing funny, time is the most precious in life and I'm working hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
