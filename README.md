@@ -31,10 +31,11 @@
 
 
 <h1>_______________________________________________________________________</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan9112&show_icons=true&locale=en&layout=compact" width="450" height="200" alt="sayan9112" />
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan9112&show_icons=true&locale=en&layout=compact" width="350" height="200" alt="sayan9112" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" width="450" height="300" alt="sayan9112" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" width="350" height="300" alt="sayan9112" />
+</p>
 <br>
 
 
