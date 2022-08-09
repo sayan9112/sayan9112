@@ -35,3 +35,6 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=sayan9112&label=Profile%20views&color=0e75b6&style=flat" width="250" height="50"  align="centre" alt="sayan9112" /> 
+
+
+<img src="https://github.com/sayan9112/sayan9112/blob/main/image.jpg" width="1000" height="245">
