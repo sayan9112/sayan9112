@@ -1,6 +1,6 @@
 <h3 align="center">A robust programmer and a researcher with reliable coding skills and have a refined view of Commercial> Technical> Practical> Projectile cycles. Motivated and very fast (self) learning capabilities. Harmonized with improved illustrating skills, dynamic & analytic.</h3>
 
-
+<div style="padding-top:112.349%;position:relative;"><iframe src="https://gifer.com/embed/HaD1" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a>>
 
 - 🔭 I’m currently working on **Blockchain**
 - 🌱 I’m currently learning **Web 3**
