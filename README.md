@@ -1,7 +1,8 @@
 <img src="https://github.com/sayan9112/sayan9112/blob/main/image.jpg" alt="Sayan Mukherjee" width="1000" height="245">
 
-<h1>___________________________________________________________________________</h1>
+<h1>____________________________________________________________________________</h1>
 <h3 align="center">A robust programmer and a researcher with reliable coding skills and have a refined view of Commercial> Technical> Practical> Projectile cycles. Motivated and very fast (self) learning capabilities. Harmonized with improved illustrating skills, dynamic & analytic.</h3>
+<h1>____________________________________________________________________________</h1>
 
 <img src="https://github.com/sayan9112/sayan9112/blob/main/Coding.gif" align="right" width="450" height="300">
 
