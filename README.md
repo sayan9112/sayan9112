@@ -4,16 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan9112" alt="sayan9112" /></a> </p>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 - 🔭 I’m currently working on **Blockchain**
-
 - 🌱 I’m currently learning **Web 3**
-
 - 🤝 I’m looking for help with **Kubernetes**
-
 - 💬 Ask me about **DSA, MERN, Android, Java**
-
 - 📫 How to reach me **sm9112000@gmail.com**
-
 - ⚡ Fun fact **Able to work a sleepless week**
 
 <h3 align="left">Connect with me:</h3>
