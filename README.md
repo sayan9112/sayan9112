@@ -29,9 +29,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan9112&show_icons=true&locale=en&layout=compact" alt="sayan9112" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" alt="sayan9112" /></p>
-
-<img src="https://github.com/sayan9112/sayan9112/blob/main/Coding.gif" align="left" width="450" height="300">
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" alt="sayan9112" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan9112&" alt="sayan9112" /></p>
 
