@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sm9112000@gmail.com**
 
-- ⚡ Fun fact **Mastered on sleepless weeks**
+- ⚡ Fun fact **Able to work a sleepless week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
