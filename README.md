@@ -39,6 +39,6 @@
 
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=sayan9112&label=Profile%20views&color=0e75b6&style=flat" width="250" height="50"  align="centre" alt="sayan9112" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sayan9112&label=Profile%20views&color=0e75b6&style=flat" width="250" height="50"  alt="sayan9112" />
 
 
