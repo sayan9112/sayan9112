@@ -34,7 +34,7 @@
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan9112&show_icons=true&locale=en&layout=compact" width="350" height="250" alt="sayan9112" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" width="350" height="300" alt="sayan9112" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" width="400" height="350" alt="sayan9112" />
 </p>
 <br>
 
