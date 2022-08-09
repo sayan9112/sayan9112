@@ -7,11 +7,11 @@
 <img src="https://github.com/sayan9112/sayan9112/blob/main/Coding.gif" align="right" width="450" height="300">
 
 
-- 🔭 I’m currently working on **Blockchain**
-- 🌱 I’m currently learning **Web 3**
-- 🤝 I’m looking for help with **Kubernetes**
-- 💬 Ask me about **DSA, MERN, Android, Java**
-- 📫 How to reach me **sm9112000@gmail.com**
+- 🔭 currently working on **Blockchain**
+- 🌱 currently learning **Web 3**
+-  looking for help with **Kubernetes**
+- 💬 Let's discuss about **DSA, MERN, Android, Java**
+- 📫 mail id: **sm9112000@gmail.com**
 - ⚡ Fun fact **Able to work a sleepless week**
 
 
