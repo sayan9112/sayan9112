@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan9112" alt="sayan9112" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i.gifer.com/HaD1.gif)](https://i.gifer.com/HaD1.gif)")
 
 - 🔭 I’m currently working on **Blockchain**
 - 🌱 I’m currently learning **Web 3**
