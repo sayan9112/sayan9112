@@ -32,12 +32,17 @@
 
 <h1>_______________________________________________________________________</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan9112&show_icons=true&locale=en&layout=compact" width="450" height="200" alt="sayan9112" />
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sayan9112&show_icons=true&locale=en" width="450" height="300" alt="sayan9112" />
+
+<br>
+
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan9112&" width="450" height="200" alt="sayan9112" />
 
 
 
+<br>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sayan9112&label=Profile%20views&color=0e75b6&style=flat" width="250" height="50"  alt="sayan9112" />
 
