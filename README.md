@@ -1,3 +1,5 @@
+<img src="img_chania.jpg" alt="Sayan Mukherjee" width="660" height="245">
+
 <h3 align="center">A robust programmer and a researcher with reliable coding skills and have a refined view of Commercial> Technical> Practical> Projectile cycles. Motivated and very fast (self) learning capabilities. Harmonized with improved illustrating skills, dynamic & analytic.</h3>
 
 
