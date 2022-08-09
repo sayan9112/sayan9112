@@ -3,12 +3,16 @@
 <h3 align="center">A robust programmer and a researcher with reliable coding skills and have a refined view of Commercial> Technical> Practical> Projectile cycles. Motivated and very fast (self) learning capabilities. Harmonized with improved illustrating skills, dynamic & analytic.</h3>
 
 <img src="https://github.com/sayan9112/sayan9112/blob/main/Coding.gif" align="right" width="300" height="300">
+
+
 - 🔭 I’m currently working on **Blockchain**
 - 🌱 I’m currently learning **Web 3**
 - 🤝 I’m looking for help with **Kubernetes**
 - 💬 Ask me about **DSA, MERN, Android, Java**
 - 📫 How to reach me **sm9112000@gmail.com**
 - ⚡ Fun fact **Able to work a sleepless week**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
