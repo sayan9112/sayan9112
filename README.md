@@ -9,6 +9,7 @@
 -  currently working on **Blockchain**
 -  currently learning **Web 3**
 -  looking for help with **Kubernetes**
+-  check out my previous **Full Stack Web 2** projects.
 -  Let's discuss about **DSA, MERN, Android, Java**
 -  mail id: **sm9112000@gmail.com**
 -  Fun fact **Able to work a sleepless week**
