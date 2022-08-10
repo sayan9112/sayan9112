@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-mukherjee-7845421a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-7845421a7/" height="60" width="60" /></a>
   <a href="https://hashnode.com/@sayan9112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sayan9112" height="60" width="60" /></a>
+  <a href="https://twitter.com/sayanmu02656546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayanmu02656546" height="60" width="60" /></a>
 </p>
 
 <br>
