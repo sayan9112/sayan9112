@@ -12,7 +12,7 @@
 -  check out my previous **Full Stack Web 2** projects.
 -  Let's discuss about **DSA, MERN, Android, Java**
 -  mail id: **sm9112000@gmail.com**
--  **Able to work a sleepless week tirelessly**
+-  **Able to code a sleepless week tirelessly**
 
 
 
